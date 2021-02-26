@@ -1,0 +1,56 @@
+.body_background 
+{
+    background-image: url("background.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:dashed;
+}
+
+h2
+{
+	border-radius: 10px;
+	width: 300px;
+	padding: 5px;
+ }
+h3
+{
+	display: inline-block;
+}
+span
+{
+	color: black;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+
+.btn {
+	height: 60px;
+	width: 160px;
+	margin-left: 10px;
+}
+
+h3{
+	background-color: darkgoldenrod;
+}
+
+.btn_i{
+	margin-left: 600px;
+	margin-top: 10px;
+}
